@@ -1,1 +1,1 @@
-# density-controlled
+Built a Smart Traffic Signal System using Python, OpenCV, and CVLib to detect real-time vehicle density and dynamically adjust green and red signal durations. Implemented automated camera capture, object detection, and adaptive timing logic to optimize traffic flow across multiple junctions.
